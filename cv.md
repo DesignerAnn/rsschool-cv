@@ -36,3 +36,6 @@ function sum(a, b) {
 - **BSUIR** - *Engineering and psychological support of information technologies*
 - **DesignSpot School** - *Interface Design Basics*
 - **TeachMeSkills** - *UX/UI Designer*
+
+### Language:
+- **English** - B1
