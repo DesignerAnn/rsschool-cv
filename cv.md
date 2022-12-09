@@ -28,3 +28,6 @@ function sum(a, b) {
   return a + b;
 }
 ```
+
+### Experience:
+**Skybuffer** - *UX/UI Designer (1 year)*
