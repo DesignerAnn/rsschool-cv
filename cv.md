@@ -21,3 +21,10 @@ Now I want to deepen my knowledge in front-end development, that is why I`m here
 * Design Handoff & Documentation
 * Responsive Design
 * UX Research
+
+### Code Example:
+```
+function sum(a, b) {
+  return a + b;
+}
+```
