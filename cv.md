@@ -1,7 +1,5 @@
 # **Kuksa Hanna**
-
 ## *UX/UI Designer*
-
 ****
 
 ### Contact information:
@@ -10,4 +8,5 @@
 **Email:** anya.kuksa.2001@gmail.com
 **Telegram:** @AnnKuksa
 [**Behance**](https://www.behance.net/anua_kuksa)
+
 
