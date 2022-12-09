@@ -13,3 +13,11 @@
 I dream of creating user-friendly interfaces that will be used by millions of people around the world.
 Now I want to deepen my knowledge in front-end development, that is why I`m here :).
 
+### Skills:
+* UI Patterns & UI Kit Library
+* Guidelines
+* Visual Design
+* UI Visual Research & Design
+* Design Handoff & Documentation
+* Responsive Design
+* UX Research
