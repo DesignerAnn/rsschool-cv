@@ -9,4 +9,7 @@
 **Telegram:** @AnnKuksa
 [**Behance**](https://www.behance.net/anua_kuksa)
 
+### About Myself:
+I dream of creating user-friendly interfaces that will be used by millions of people around the world.
+Now I want to deepen my knowledge in front-end development, that is why I`m here :).
 
