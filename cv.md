@@ -31,3 +31,8 @@ function sum(a, b) {
 
 ### Experience:
 **Skybuffer** - *UX/UI Designer (1 year)*
+
+### Education:
+- **BSUIR** - *Engineering and psychological support of information technologies*
+- **DesignSpot School** - *Interface Design Basics*
+- **TeachMeSkills** - *UX/UI Designer*
