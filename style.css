@@ -3,13 +3,13 @@ body {
 }
 
 .wrapper {
-    max-width: 1440px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
 .header {
     background-color: #FBD963;
-    width: 1440px;
+    width: 1000px;
     height: 80px;
 }
 
@@ -27,17 +27,16 @@ body {
 }
 
 .nav-link {
-    font-size: 28px;
-    line-height: 40px;
+    font-size: 20px;
+    line-height: 32px;
     padding: 0 20px;
     text-decoration: none;
     color: black;
 }
 
 img {
-    width: 320px;
-    height: 320px;
-    margin: 56px 100px 0 0;
+    width: 220px;
+    height: 220px;
 }
 
 .img {
@@ -46,6 +45,47 @@ img {
 
 h1 {
     width: 422px;
-    font-size: 64px;
+    font-size: 48px;
     font-weight: 700;
+    margin-left: 260px
+}
+
+.italic {
+    font-style: italic;
+}
+
+.subtitle {
+    font-size: 32px;
+    margin-left: 260px
+}
+
+.p {
+    margin-top: -30px;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 600;
+    padding: 10px 24px 10px 24px;
+    background-color: #FBD963;
+    border-radius: 32px;
+    display: inline-block;
+    margin: 80px 0 0 0;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.top {
+    margin-top: -15px;
+}
+
+.line-height {
+    line-height: 40px;
+}
+
+.section {
+    height: 220px;
 }
