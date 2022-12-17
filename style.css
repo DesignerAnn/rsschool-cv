@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #FBD963;
+    width: 1440px;
+    height: 80px;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding: 20px;
+}
+
+.nav-link {
+    font-size: 28px;
+    line-height: 40px;
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+}
+
