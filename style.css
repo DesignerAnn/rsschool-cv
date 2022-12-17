@@ -5,6 +5,9 @@ body {
 .wrapper {
     max-width: 1000px;
     margin: 0 auto;
+    box-shadow: 0px 2px 100px rgba(0, 0, 0, 0.08);
+    padding-left: 48px;
+    padding-right: 48px;
 }
 
 .header {
@@ -88,4 +91,8 @@ h2 {
 
 .section {
     height: 220px;
+}
+
+.link {
+    color: blue;
 }
