@@ -1,21 +1,102 @@
-<!doctype html>
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-
-  <title>The HTML5 Herald</title>
-  <meta name="description" content="The HTML5 Herald">
-  <meta name="author" content="SitePoint">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
-
-  <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CV. Hanna Kuksa</title>
+    <style> @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300&display=swap'); </style>
 </head>
-
-<body>
-  <script src="js/scripts.js"></script>
+<body> 
+    <div class="wrapper">
+        <header class="header">
+            <div class="container">
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li><a href="#about" class="nav-link">About</a></li>
+                        <li><a href="#experience" class="nav-link">Experience</a></li>
+                        <li><a href="#skills" class="nav-link">Skills</a></li>
+                        <li><a href="#contacts" class="nav-link">Contacts</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <section class="section">
+                <img src="Hanna_Kuksa.jpg" alt="Hanna Kuksa" class="img">
+                <div><h1>Hanna Kuksa</h1></div>
+                <div><p class="p subtitle italic">UX/UI Designer</p></div>
+            </section>
+            <section>
+                <h2 id="about">About</h2>
+                <p class="text">I dream of creating user-friendly interfaces that will be used by millions of people around the world. Now I want to deepen my knowledge in front-end development, that is why I`m here :). </p>
+            </section>
+            <section>
+                <h2 id="experience">Experience</h2>
+                <p class="text"><i>11.2021 - Present</i></p>
+                <p class="text top"><b>Skybuffer - UX/UI Designer</b></p>
+            </section>
+            <section>
+                <h2 id="skills">Skills</h2>
+                <ul class="text"> 
+                    <li>UI Patterns & UI Kit Library</li>
+                    <li>Guidelines</li>
+                    <li>Visual Design</li>
+                    <li>UI Visual Research & Design</li>
+                    <li>Design Handoff & Documentation</li>
+                    <li>Responsive Design</li>
+                    <li>UX Research</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Education</h2>
+                <ul class="text"> 
+                    <li class="line-height"><b>BSUIR</b><i> - Engineering and psychological support of information technologies</i></li>
+                    <li class="line-height"><b>DesignSpot School</b><i> - Interface Design Basics</i></li>
+                    <li class="line-height"><b>TeachMeSkills</b><i> - UX/UI Designer</i></li>
+                </ul>
+            </section>
+            <section>
+                <h2>Language</h2>
+                <ul class="text"> 
+                    <li><b class="line-height">English</b><i class="line-height"> - B1</i></li>
+                </ul>
+            </section>
+            <section>
+                <h2>Projects</h2>
+                <ul class="text"> 
+                    <li><a href="https://github.com/DesignerAnn/rsschool-cv/blob/rsschool-cv-html/cv.md" class="link">CV (Markdown)</a></li>
+                </ul>
+            </section>
+            <section>
+                <h2>Code Example</h2>
+                <pre class="text background">
+        function sum(a, b) {
+            return a + b;
+        }</pre>
+            </section>
+            <section>
+                <h2 id="contacts">Contacts</h2>
+                <ul class="text"> 
+                    <li class="line-height"><b>Location:</b> Minsk, Belarus</li>
+                    <li class="line-height"><b>Phone:</b> +375 (44) 765-81-40</li>
+                    <li class="line-height"><b>Email: </b><a href="mailto:anya.kuksa.2001@gmail.com" class="link">anya.kuksa.2001@gmail.com</a></li>
+                    <li class="line-height"><b>Telegram:</b> @AnnKuksa</li>
+                    <li class="line-height"><a href="https://www.behance.net/anua_kuksa" class="link">Behance</a></li>
+                </ul>
+            </section>
+        </main>
+        <footer class="footer">
+            <div class="container">
+                <ul class="footer-list">
+                    <li><a href="https://github.com/DesignerAnn" class="nav-link underline">GitHub</a></li>
+                    <li class="nav-link">2022</li>
+                    <li class="nav-link"><img src="rs_school_js.svg" alt="Logo RSS" class="logo"></li>
+                    <li><a href="https://rs.school/js-stage0/" class="nav-link underline">Rolling Scopes (JavaScript/Front-end. Stage 0)</a></li>
+                </ul>
+            </div>
+        </footer>
+    </div>
 </body>
 </html>
