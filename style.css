@@ -102,3 +102,26 @@ h2 {
     padding-top: 24px;
     padding-bottom: 24px;
 }
+
+.footer {
+    background-color: #FBD963;
+    width: 1000px;
+    height: 80px;
+    margin-top: 40px;
+}
+ .logo {
+    width: 80px;
+    height: 80px;
+ }
+
+ .underline {
+    text-decoration: underline;
+ }
+
+ .footer-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    padding-right: 20px;
+}
