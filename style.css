@@ -96,3 +96,9 @@ h2 {
 .link {
     color: blue;
 }
+
+.background {
+    background-color: #F4F4F4;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
